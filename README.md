@@ -52,12 +52,21 @@
 </p>
 
 ---
+### 📈 GitHub Stats
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkugavarathan&show_icons=true&locale=en&layout=compact" alt="Nkugavarathan" />
+<div align="center">
+
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Nkugavarathan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkugavarathan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nkugavarathan" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&locale=en" alt="Nkugavarathan" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=Nkugavarathan" alt="Nkugavarathan" /></p>
+---
+### 📊 Weekly Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nkugavarathan&theme=react-dark)
+
+
+
