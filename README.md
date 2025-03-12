@@ -53,17 +53,21 @@
 
 ---
 ### 📈 GitHub Stats
-
+<!--
 <div align="center">
 
- <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=Nkugavarathan&theme=radical&hide_border=true" alt="GitHub Streak"/> -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Nkugavarathan&theme=radical&hide_border=true)
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nkugavarathan&theme=radical&hide_border=true&cache=none)
   <img src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkugavarathan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nkugavarathan" />
-</p>
+
+ </div> -->
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Nkugavarathan&theme=radical&hide_border=true&cache=none" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkugavarathan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages"/>
+
+
 
 </div>
 
