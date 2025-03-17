@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kugavarathan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kugavarathan.;I+love+coding!;Welcome+to+my+GitHub+profile!&repeat=true" />
 </p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
