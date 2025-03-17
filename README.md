@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kugavarathan</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kugavarathan" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **DSA , ,PHP and Laravel**
