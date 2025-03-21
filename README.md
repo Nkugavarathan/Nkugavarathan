@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **DSA , ,PHP and Laravel**
+- 🌱 I’m currently learning **DSA ,PHP and Laravel**
 - 📝 I regularly write articles on [Medium](https://medium.com/@kugavarathan28)
 - 💬 Ask me about **React, Java**
 - 📫 How to reach me **kugavarathan28@gmail.com**
