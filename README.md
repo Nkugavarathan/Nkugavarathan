@@ -76,9 +76,9 @@
 </div>
 
 ---
-### 📊 Weekly Activity
+<!--### 📊 Weekly Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nkugavarathan&theme=react-dark)
-
+ -->
 
 
