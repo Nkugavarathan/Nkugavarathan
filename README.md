@@ -1,3 +1,5 @@
+  <img align="right" alt="coder-gif" width="400" src="https://github.com/Nkugavarathan/Nkugavarathan/blob/main/codergif.gif" >
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kugavarathan.;I+love+coding!;Welcome+to+my+GitHub+profile!&repeat=true" />
 </p>
@@ -8,7 +10,7 @@
 - 💬 Ask me about **React, Java**
 - 📫 How to reach me **kugavarathan28@gmail.com**
 
----
+
 
 ## 🌐 Connect with me:
 <p align="left">
@@ -17,7 +19,6 @@
 <a href="https://www.hackerrank.com/kugavarathan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
----
 
 ## 🛠 Languages and Tools:
 
