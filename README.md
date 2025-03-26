@@ -1,4 +1,5 @@
-  <img align="center" alt="coder-gif" width="400" src="https://github.com/Nkugavarathan/Nkugavarathan/blob/main/codergif.gif" >
+
+<p align="center">  <img  alt="coder-gif" width="400" src="https://github.com/Nkugavarathan/Nkugavarathan/blob/main/codergif.gif" ></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kugavarathan.;I+love+coding!;Welcome+to+my+GitHub+profile!&repeat=true" />
