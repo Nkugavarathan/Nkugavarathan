@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **DSA ,PHP and Wordpress**
+- 🌱 I’m currently learning **DSA ,NextJs and Wordpress**
 - 📝 I regularly write articles on [Medium](https://medium.com/@kugavarathan28)
 - 💬 Ask me about **React, Java**
 - 📫 How to reach me **kugavarathan28@gmail.com**
@@ -38,8 +38,8 @@
 
 ### 🔹 Backend Tools:
 <p align="left">
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>  -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/> -->
 
