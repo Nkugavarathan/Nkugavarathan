@@ -1,179 +1,111 @@
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kugavarathan+%F0%9F%91%8B;Full-Stack+Developer+%7C+Sri+Lanka;MERN+%26+Spring+Boot+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:36BCF7&height=220&section=header&text=Kugavarathan%20Navaraththinarasa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20at%20AirentoSoft%20%7C%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-### 🚀 Software Engineer · Full-Stack Developer · Tech Enthusiast from Sri Lanka
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+at+AirentoSoft;Building+scalable+web+applications;MERN+%26+Spring+Boot+Enthusiast;Learning+Microservices+%26+System+Design" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kugavarathan-navaraththinarasa-7ab094267/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kugavarathan28)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kugavarathan28)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://nkugavarathan.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kugavarathan28@gmail.com)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kugavarathan-navaraththinarasa-7ab094267/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kugavarathan28)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kugavarathan28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://nkugavarathan.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugavarathan28@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Nkugavarathan&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="views" />
 
 </div>
 
----
+<br/>
 
-## 💡 About Me
+## About Me
 
 ```javascript
 const kugavarathan = {
-  role:       "Full-Stack Developer",
-  learning:   ["Microservices", "System Design"],
-  passions:   ["MERN Stack", "Spring Boot", "Scalable Apps"],
-  writing:    "medium.com/@kugavarathan28",
-  funFact:    "I love building apps that solve real-world problems 🚀"
+  role:     "Associate Software Engineer",
+  company:  "AirentoSoft",
+  focus:    "Full-Stack Development",
+  location: "Sri Lanka",
+  stack:    ["MERN", "Spring Boot", "Next.js"],
+  learning: ["Microservices", "System Design"],
+  writing:  "medium.com/@kugavarathan28",
+  mission:  "Build apps that solve real-world problems"
 };
 ```
 
-- 🌱 Currently learning **Microservices, System Design**
-- 💻 Passionate about **MERN , Spring Boot full-stack development & Next.Js**
-- ✍️ Regularly writing articles on [Medium](https://medium.com/@kugavarathan28)
-- 💬 Ask me about **React, Node.js, Java, or Spring Boot**
-- 📫 Reach me at **kugavarathan28@gmail.com**
-- 🌐 Check my portfolio: [nkugavarathan.vercel.app](https://nkugavarathan.vercel.app/)
-
----
-
-
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
-      <br/><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="55" alt="Redux"/>
-      <br/><sub><b>Redux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
-      <br/><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind"/>
-      <br/><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/>
-      <br/><sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
+- Working as an **Associate Software Engineer** at **AirentoSoft**
+- Currently learning **Microservices** and **System Design**
+- Passionate about **MERN**, **Spring Boot** and **Next.js** full-stack development
+- Writing articles on [Medium](https://medium.com/@kugavarathan28)
+- Ask me about **React, Node.js, Java or Spring Boot**
+- Reach me at **kugavarathan28@gmail.com**
+- Portfolio: [nkugavarathan.vercel.app](https://nkugavarathan.vercel.app/)
 
 <br/>
 
-### ⚙️ Backend
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express"/>
-      <br/><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/>
-      <br/><sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
-      <br/><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/>
-      <br/><sub><b>PHP</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🗄️ Databases
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
-      <br/><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-      <br/><sub><b>MySQL</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🧰 Tools & DevOps
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/>
-      <br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/>
-      <br/><sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="55" height="55" alt="Jest"/>
-      <br/><sub><b>Jest</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Nkugavarathan&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+**Frontend**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkugavarathan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="38%" />
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,php&perline=8" alt="Backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Databases" />
+
+**Tools and DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,jest&perline=8" alt="Tools" />
 
 </div>
 
----
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Nkugavarathan&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="80%" />
+
+<br/><br/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkugavarathan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkugavarathan&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution Graph" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nkugavarathan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+<!--
+MOST ACCURATE STATS (optional):
+After you add the workflow in .github/workflows/metrics.yml and it runs once,
+delete this comment markers to show the self-generated, token-based metrics card.
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="95%" />
+</div>
+-->
+
+<br/>
 
 <div align="center">
 
 *"Building scalable apps, one commit at a time."*
 
-⭐ **If you like my work, consider starring some repos!**
+If you like my work, consider starring a repo.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
