@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:36BCF7&height=220&section=header&text=Kugavarathan%20Navaraththinarasa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20at%20AirentoSoft%20%7C%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:36BCF7&height=220&section=header&text=Kugavarathan%20Navaraththinarasa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+at+AirentoSoft;Building+scalable+web+applications;MERN+%26+Spring+Boot+Enthusiast;Learning+Microservices+%26+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+Scalable+Web+Applications;MERN+%26+Spring+Boot+Enthusiast;Exploring+Microservices+%26+System+Design" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,21 +22,21 @@
 
 ```javascript
 const kugavarathan = {
-  role:     "Associate Software Engineer",
-  company:  "AirentoSoft",
-  focus:    "Full-Stack Development",
+  role: "Software Engineer",
+  focus: "Full-Stack Development",
   location: "Sri Lanka",
-  stack:    ["MERN", "Spring Boot", "Next.js"],
+  stack: ["MERN", "Spring Boot", "Next.js"],
   learning: ["Microservices", "System Design"],
-  writing:  "medium.com/@kugavarathan28",
-  mission:  "Build apps that solve real-world problems"
+  writing: "medium.com/@kugavarathan28",
+  mission: "Build applications that solve real-world problems"
 };
 ```
 
-- Working as an **Associate Software Engineer** at **AirentoSoft**
-- Currently learning **Microservices** and **System Design**
-- Passionate about **MERN**, **Spring Boot** and **Next.js** full-stack development
-- Writing articles on [Medium](https://medium.com/@kugavarathan28)
+- Working as a **Software Engineer**
+- Passionate about building modern and scalable **web applications**
+- Exploring **Microservices Architecture** and **System Design**
+- Experienced in **MERN**, **Spring Boot** and **Next.js** development
+- Writing technical articles on [Medium](https://medium.com/@kugavarathan28)
 - Ask me about **React, Node.js, Java or Spring Boot**
 - Reach me at **kugavarathan28@gmail.com**
 - Portfolio: [nkugavarathan.vercel.app](https://nkugavarathan.vercel.app/)
@@ -76,6 +76,7 @@ const kugavarathan = {
 <br/><br/>
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=Nkugavarathan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkugavarathan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
@@ -102,7 +103,7 @@ delete this comment markers to show the self-generated, token-based metrics card
 
 <div align="center">
 
-*"Building scalable apps, one commit at a time."*
+*"Building scalable applications, one commit at a time."*
 
 If you like my work, consider starring a repo.
 
